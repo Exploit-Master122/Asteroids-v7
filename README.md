@@ -2,7 +2,7 @@
 
 A better, 3D advanced version of the basic arcade game, Asteroids. =-D  
 
-- ***[COMING SOON!(Click to see how long 'till launch)](https://exploit-master122.github.io/Countdown/)*
+- ***[COMING SOON!(Click to see how long 'till launch)](https://exploit-master122.github.io/Countdown/)***
 
 <details>
 <summary>Available On...🌐</summary>
