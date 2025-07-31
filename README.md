@@ -11,7 +11,7 @@ A better, 3D advanced version of the basic arcade game, Asteroids. =-D
 - Available on Linux, ChromeOS! (Debian Ubuntu 64-bit only)
 - Available Mobile.
 - Available On Windows and Apple.
-- It's in-browser, too. There's a website, too...😁
+- It's in-browser,There's a website, too...😁
 </details>
 
 <details>
