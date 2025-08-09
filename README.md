@@ -18,7 +18,7 @@ A better, 3D advanced version of the basic arcade game, Asteroids. =-D
 <summary>🚀 Game Features</summary>
 
 - ***FROM A BASIC ARCADE GAME IN 1998, INTO A NEXT-GEN VERSION TO 2025!***
-- In this game, it is not just regular Asteroids, with a doodled spaceship. You're a *(Very Good, Trust, you can change the skin, haha...)* stickman, that looks like *ROBLOX* was the Rip-off.
+- In this game, it is not just regular Asteroids, with a doodled spaceship. You're a Henry 3d stickman, that looks like *ROBLOX* was the Rip-off.
 - Advanced bot AI...
 - Boss Battle!!
 - Better UI 
