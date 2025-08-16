@@ -1,9 +1,9 @@
 # Asteroids v5 : Stickman AI Robots 
 
-A better, 3D advanced version of the basic arcade game, Asteroids. =-D  
+A better, 3D advanced version of the basic arcade game, Asteroids.Credits to *Swift502 A LOT* for developing most of the game.I am modding it,bit by bit,to fit all of the extra stuff that is written here. =-D  
 - Links:
 - ***[COMING SOON!(Click to see how long 'till launch)](https://exploit-master122.github.io/Countdown/)***
-- [Sketchbook v5](https://exploit-master122.github.io/Sketchbook-v5/)
+- [Sketchbook v5](https://sketchbookv5.netlify.app/)  (Best Link so far)
 - [Asteroids (Original)](https://exploit-master122.github.io/Asteroids-v6/)
 
 <details>
